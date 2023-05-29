@@ -1,0 +1,46 @@
+{
+    "fornecedores": [
+        {
+            "id": 1,
+            "name": "ABC Ferramentas Ltda",
+            "active": 1,
+            "category": "Regional",
+            "contact": "(11) 1111-1111"
+        },
+        {
+            "id": 2,
+            "name": "Mega Construções Ltda",
+            "active": 0,
+            "category": "Regional",
+            "contact": "(11) 2222-2222"
+        },
+        {
+            "id": 3,
+            "name": "QualiFerramentas",
+            "active": 1,
+            "category": "Nacional ",
+            "contact": "(19) 3333-3333"
+        },
+        {
+            "id": 4,
+            "name": "Mega Construções e Ferramentas",
+            "active": 0,
+            "category": "Nacional ",
+            "contact": "(19) 4444-4444"
+        },
+        {
+            "id": 5,
+            "name": "Construcenter",
+            "active": 1,
+            "category": "Internacional",
+            "contact": "+55 (11) 5555-5555"
+        },
+        {
+            "id": 6,
+            "name": "Porcas&Parafusos",
+            "active": 0,
+            "category": "Internacional",
+            "contact": "+55 (19) 6666-6666"
+        }
+    ]
+}
